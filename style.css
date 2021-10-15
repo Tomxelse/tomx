@@ -71,15 +71,17 @@ border-radius: 50%;
 {
     content: "";
     position: absolute;
+
     width: 8px;
     height: 100px;
     background: #ffffff;
-    z-index: 200;
+    z-index: 10;
     border-radius: 6px 6px 0 0;
 }
 .mn:before
 {
     content: "";
+    Align-item: down !important
     position: absolute;
     width: 4px;
     height: 200px;
