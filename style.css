@@ -63,6 +63,7 @@ position: absolute;
 {
     display: flex;
     justify-content: center;
+/*align-items: center;*/
 position: absolute;
 border-radius: 50%;
 }
@@ -70,7 +71,6 @@ border-radius: 50%;
 {
     content: "";
     position: absolute;
-Align-item: down;
     width: 8px;
     height: 100px;
     background: #ffffff;
@@ -80,7 +80,7 @@ Align-item: down;
 .mn:before
 {
     content: "";
-    Align-item: down !important
+    Margin:100px;
     position: absolute;
     width: 4px;
     height: 200px;
