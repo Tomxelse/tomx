@@ -70,8 +70,7 @@ border-radius: 50%;
 .hr:before
 {
     content: "";
-    position: fixed;
-Align-item: left;
+    position: absolute;
     width: 8px;
     height: 100px;
     background: #ffffff;
