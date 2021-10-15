@@ -80,7 +80,7 @@ border-radius: 50%;
 .mn:before
 {
     content: "";
-    position: 100 0 0 0;
+    position: 100 0 0 0 !important;
     width: 4px;
     height: 200px;
     background: #fff;
